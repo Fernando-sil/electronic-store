@@ -12,7 +12,7 @@ This is the front-end part of the electronic store app. The following technologi
 
 This app includes authentication using JWT and refresh token.
 
-### Authentication Stretagy
+### Authentication Strategy
 
 - Backend sends JWT and refresh token to the front-end
 - Refresh token is stored in http-only cookie
