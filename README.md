@@ -1,6 +1,6 @@
 # Electronic Store
 
-This is the front-end part of the electronic store app. The following technologies were used:
+This is the front-end part of the electronic store app. To be used together with the backend. The following technologies were used:
 
 - React
 - Typescript
