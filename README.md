@@ -27,4 +27,11 @@ Admin area can only be accessed with required credentials
 
 ## Cart
 
-Users can add and edit items in cart. Payment process must be implemented.
+- Users can add and edit items in cart.
+- Payment process must be implemented.
+- Only registered users can have a cart
+
+## Product reviewa
+
+- Users can add only one review per product
+- Users can only edit and delete their own reviews
